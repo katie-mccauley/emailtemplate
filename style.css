@@ -1,0 +1,30 @@
+* {
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Comforter', cursive;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.cropped {
+  height: 150px;
+  max-width: 150px;
+}
+
+.fontw {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.weight {
+  font-weight: 600;
+}
+
+.btn-weight {
+  font-weight: 600;
+}
+
+.croppedlogo {
+  height: 300px;
+  max-width: 300px;
+}
